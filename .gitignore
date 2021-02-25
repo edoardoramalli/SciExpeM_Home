@@ -1,0 +1,16 @@
+
+.idea/
+node_modules/
+stats.json
+
+.DS_Store
+
+public/favicon.ico
+
+public/logo192.png
+
+public/logo512.png
+
+public/manifest.json
+
+public/robots.txt
